@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-br from-lux-purple via-[#2a0f64] to-[#3c1f8f] text-muted-white;
+}
