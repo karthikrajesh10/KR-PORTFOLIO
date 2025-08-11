@@ -24,7 +24,7 @@ const projects = [
     title: 'KRFlixer - Netflix Clone',
     description:
       'A responsive streaming UI inspired by Netflix. Features dynamic content fetching, search, filters, and user-friendly navigation built with React and TMDB API.',
-    live: 'https://kr-flixer-git-master-karthiks-projects-3eed7c9f.vercel.app/',
+    live: 'https://kr-flixer.vercel.app/',
     code: 'https://github.com/karthikrajesh10/KRFlixer',
     tags: ['React', 'TMDB API', 'Tailwind CSS', 'Responsive'],
     image: krflixerImg,
