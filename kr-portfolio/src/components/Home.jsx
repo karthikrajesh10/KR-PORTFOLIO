@@ -39,7 +39,7 @@ const TaglineAnimated = () => {
 
 const Home = () => {
   const driveCVLink =
-    'https://drive.google.com/file/d/1JppbaakRpKu2eKP7Wn-zyHF3ZjT72zXl/view?usp=drive_link';
+    'https://drive.google.com/file/d/18PWfKc0i-xD5HEm-d4JaC98tGcHgUYA4/view?usp=sharing';
 
   return (
     <section className="flex flex-col lg:flex-row items-start lg:items-center justify-between px-6 md:px-16 min-h-[80vh] gap-10">
